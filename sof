@@ -1,11 +1,5 @@
-Put your HTML text here<!--
+
 astrosof.html
-Single-file static template inspired by https://guns.lol/moddedhazem
-Instructions:
- - Open this file in a browser to preview.
- - Replace placeholder images, texts and links (SEARCH for "REPLACE_ME").
- - If you want a React/Tailwind version or deployment help (GitHub Pages / Netlify), tell me and I'll produce it.
--->
 <!doctype html>
 <html lang="it">
 <head>
